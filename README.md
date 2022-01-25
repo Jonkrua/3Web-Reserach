@@ -19,9 +19,9 @@ description: 3Web Reserach 是一个社区驱动的去中心化的加密领域�
 
 ## 关注我们
 
-* **官网**：\[https://3web.io]\(https://3web.io)
-* **Twitter**: \[3Web DAO]\([https://twitter.com/3Web\_DAO](https://twitter.com/3Web\_DAO))
-* **微信:** 3Web DAO
+* **官网**：[https://3web.io](https://3web.io)
+* **Twitter**: [https://twitter.com/3Web\_DAO](https://twitter.com/3Web\_DAO)
+* **微信公众号:** 3Web DAO
 * **CSDN**: 3Web Reserach
 * **邮箱**: 3webdao@gmail.com
 
