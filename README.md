@@ -19,4 +19,10 @@ description: 3Web Reserach 是一个社区驱动的去中心化的加密领域�
 
 ### 找到我们
 
+{% embed url="https://twitter.com/home" %}
+Twitter
+{% endembed %}
+
 {% embed url="https://github.com/3Web-DAO" %}
+Github
+{% endembed %}
