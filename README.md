@@ -1,2 +1,9 @@
-# 3Web-Reserach
-3Web Research is the decentralized research focused on the crypto .
+---
+coverY: 0
+---
+
+# Welcome!
+
+## Welcome aboard!
+
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
