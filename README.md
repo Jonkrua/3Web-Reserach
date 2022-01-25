@@ -1,9 +1,18 @@
 ---
 coverY: 0
+description: 3Web Reserach 是一个社区驱动的去中心化的加密领域研究机构。
 ---
 
-# Welcome!
+# ✈ 读前必看
 
-## Welcome aboard!
+### 为什么是3Web Reserach
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+#### 3Web DAO是一个加密领域的自治理社区，DAO成员均有多年区块链加密领域的研究和投资背景,愿景是帮助独角兽落地和Web3投资者获利。
+
+**3Web Analytics**：专注于区块链上的数据分析平台
+
+**3Web Research**：专注于区块链加密领域的研究机构
+
+**3Web Capital** : 专注于区块链加密领域的投资
+
+![](.gitbook/assets/gitbook.png)

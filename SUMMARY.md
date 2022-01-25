@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [✈ 读前必看](README.md)
 
 ## The Company
 
