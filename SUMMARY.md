@@ -19,10 +19,14 @@
 * [FTM](gong-lian/ftm/README.md)
   * [Page 8](gong-lian/ftm/page-8.md)
 
-## The Formal Stuff
+## 头部机构研究报告
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
-* [Page 1](the-formal-stuff/page-1/README.md)
-  * [Page 2](the-formal-stuff/page-1/page-2.md)
-* [Page 3](the-formal-stuff/page-3.md)
+* [Requesting Time Off](tou-bu-ji-gou-yan-jiu-bao-gao/requesting-time-off.md)
+* [Filing Expenses](tou-bu-ji-gou-yan-jiu-bao-gao/filing-expenses.md)
+* [Page 1](tou-bu-ji-gou-yan-jiu-bao-gao/page-1/README.md)
+  * [Page 2](tou-bu-ji-gou-yan-jiu-bao-gao/page-1/page-2.md)
+* [Page 3](tou-bu-ji-gou-yan-jiu-bao-gao/page-3.md)
+
+***
+
+* [Page 11](page-11.md)
